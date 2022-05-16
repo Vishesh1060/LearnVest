@@ -63,10 +63,11 @@
 }
 #navbarh{
     align-items: center;
+    background: rgba(245, 245, 245, 0.9);
     border-radius: 25px; 
     min-height: 11%;
     min-width: 70%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.281), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 @media screen and (max-width: 600px) {
     #navbarh{
@@ -82,10 +83,10 @@
 }
 
 #card1, #card2, #card3{
-    background: whitesmoke;
+    background: rgba(245, 245, 245, 0.993);
     border: 0;
     border-radius: 12px;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin-left: 1%!important;
     margin-right: 1%!important;
 }
