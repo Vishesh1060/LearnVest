@@ -63,6 +63,7 @@
 }
 #navbarh{
     align-items: center;
+    background: rgba(245, 245, 245, 0.966);
     border-radius: 25px; 
     min-height: 11%;
     min-width: 70%;
