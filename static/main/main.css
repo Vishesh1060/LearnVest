@@ -94,6 +94,8 @@
         border-radius: 6px;
     }
 }
-
-
-    
+@media screen and (max-width: 400px){
+#text1{
+    font-size: 0.75rem;
+}
+}
