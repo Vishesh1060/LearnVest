@@ -4,3 +4,4 @@ app=F(__name__)
 @app.route('/')
 def index():
     return rt("index.html")
+app.run()
